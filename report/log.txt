@@ -1,0 +1,16 @@
+*   6154da8 Merge pull request #1 from twonlabs/feature/sensor
+|\  
+| * b98fb86 센서 설정 추가
+|/  
+*   9b1f7fa 속도 1.5로 충돌 해결
+|\  
+| * a849904 속도 2.0으로 변경
+* | b9be603 속도 1.5로 변경
+|/  
+*   d266d0f Merge branch 'main' of https://github.com/twonlabs/final-day15
+|\  
+| * d4646d0 README 설명 추가
+* | 4dc0ab5 팀원 목록 추가
+|/  
+* fb51554 설정 파일 추가
+* faeaf93 Initial commit
