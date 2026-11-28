@@ -1,3 +1,21 @@
+*   6528c00 Merge pull request #4 from twonlabs/feature/battery
+|\  
+| * 8794da5 배터리 경고 기준 추가
+| * 7741340 배터리 설정 추가
+|/  
+*   c1fc409 Merge pull request #3 from twonlabs/feature/speed-safe
+|\  
+| *   ee2b01d 속도 2.0으로 충돌 해결
+| |\  
+| |/  
+|/|   
+* |   af37920 Merge pull request #2 from twonlabs/feature/speed-up
+|\ \  
+| * | 1eb8424 속도 2.5로 변경
+|/ /  
+| * ef47e64 속도 1.0으로 변경
+|/  
+* fdf9d05 작업 기록 저장
 *   6154da8 Merge pull request #1 from twonlabs/feature/sensor
 |\  
 | * b98fb86 센서 설정 추가
